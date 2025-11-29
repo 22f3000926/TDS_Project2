@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+httpx
+python-dotenv
+pydantic
+playwright
+pypdf
+beautifulsoup4
+matplotlib>=3.7.0
+numpy>=1.24.0
